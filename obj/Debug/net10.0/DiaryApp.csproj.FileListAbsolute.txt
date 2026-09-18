@@ -173,7 +173,6 @@ C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\mg1t1i7j
 C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\rm7r2ce28q-{0}-j5mq2jizvt-j5mq2jizvt.gz
 C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\9bsz5cej1x-{0}-06098lyss8-06098lyss8.gz
 C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\782lktoiem-{0}-nvvlpmu67g-nvvlpmu67g.gz
-C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\3pfrw5qvco-{0}-s35ty4nyc5-s35ty4nyc5.gz
 C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\99zhj8kslc-{0}-pj5nd1wqec-pj5nd1wqec.gz
 C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\tj4wfr8mbo-{0}-46ein0sx1k-46ein0sx1k.gz
 C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\og4o5cv7b0-{0}-v0zj4ognzu-v0zj4ognzu.gz
@@ -231,3 +230,4 @@ C:\Users\gwint\source\repos\Diary\DiaryApp\bin\Debug\net10.0\runtimes\win-arm64\
 C:\Users\gwint\source\repos\Diary\DiaryApp\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 C:\Users\gwint\source\repos\Diary\DiaryApp\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\DiaryApp.sourcelink.json
+C:\Users\gwint\source\repos\Diary\DiaryApp\obj\Debug\net10.0\compressed\3pfrw5qvco-{0}-g666pbgdn3-g666pbgdn3.gz
