@@ -17,5 +17,18 @@ namespace DiaryApp.Controllers
 
             return View(objDiaryEntryList);
         }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create(DiaryEntry obj)
+        {
+            _db.DiaryEntries.Add(obj);  // Adds the new dairy entry to the database context
+            _db.SaveChanges();  // Saves the changes to the database
+            return RedirectToAction("Index");
+        }
     }
 }
